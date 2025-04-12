@@ -223,7 +223,3 @@ if p_val < 0.05:
     print("Result: Statistically significant difference between PM2.5 and PM10 levels.")
 else:
     print("Result: No statistically significant difference between PM2.5 and PM10 levels.")
-
-
-    
-    
